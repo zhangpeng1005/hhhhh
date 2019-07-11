@@ -1,0 +1,25 @@
+*{padding: 0;margin: 0;}
+.head{padding: 20px;display: flex;margin-top: 20px;margin-right:20px;margin-left:100px;margin-right:100px;margin-bottom:20px;box-sizing: border-box;background-color: #C0C5CB;}
+.head_img{width: 30%;display: flex;align-content: center;justify-content: center;}
+.head_img img{width: 50%;border-radius: 5px;}
+.head_lr_xm{border-bottom: 2px solid #000000;width: 50px;}
+.head_lr_pj{margin-top: 20px;padding-right: 20px;}
+.jczl{display: flex;}
+.jczl_xx{width: 20%;align-items: center;justify-content: center;display: flex;background-color: grey;box-sizing: border-box;border-bottom: 2px solid white;border-top: 2px solid white}
+.jczl_lx{flex-grow: 1;}
+.jbxx{display: flex;margin-top: 20px;box-sizing: border-box;}
+.jbxx_dh{width: 33%;}
+.jbxx_gzjy{width: 33%;}
+.jbxx_zs{width: 34%;}
+.jbxx2{display: flex;}
+.jbxx2_yx{width: 33%;}
+.jbxx2_dz{width: 67%;}
+.ly{display: flex;margin-left: 300px;margin-right: 20px;box-sizing: border-box;}
+.ly_yx{width: 33%;}
+.ly_bj{width: 33%;}
+.ly_zs{width: 34%;}
+.ly_yx_nr{background-color: white;}
+.zyjn{display: flex;margin: 20px 100px;}
+.zyjn_zuo{width: 10%;}
+.zyjn_zhong{width: 45%;line-height: 40px;}
+.zyjn_you{width: 45%;line-height: 40px;}
